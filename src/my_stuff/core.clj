@@ -4,4 +4,4 @@
 (defn -main
   "I don't do a whole lot ... yet."
   [& args]
-  (println "Hello, World!"))
+  (println "Welcome to my project! These are your args:" args))
